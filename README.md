@@ -61,3 +61,4 @@ To add yourself (or others), follow this format `| [Name](https://name.com) | Lo
 | [Glenna Buford](https://twitter.com/glennersboofy) | Berlin, Germany |
 | [Laura Savino](https://twitter.com/savinola) |  Seattle, WA |
 | [Anne Cahalan](https://twitter.com/northofnormal) | Detroit, MI |[noti.st/northofnormal](https://noti.st/northofnormal)|
+| [Kaya Thomas](https://twitter.com/kthomas901) | Oakland, CA | [kayathomas.info](https://kayathomas.info/)|
